@@ -30,7 +30,6 @@ export default function Sectionservices() {
     text: "Reserve services easily",
     path:"/reservation",
   }];
-    
   return (
     <div>
       <section  id="services"  className="bg-[#FDF5E6] py-18 mx-auto">

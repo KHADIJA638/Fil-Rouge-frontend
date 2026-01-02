@@ -1,16 +1,10 @@
-# React + Vite
+# PetCare - Application Web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PetCare est une application web qui permet aux propriétaires d'animaux de gérer leurs animaux et de prendre rendez-vous avec des vétérinaires.  
+Les vétérinaires peuvent consulter les rendez-vous et les accepter ou les refuser.
 
-Currently, two official plugins are available:
+https://lucid.app/lucidchart/bb5cfad1-3bcc-4baa-abbe-2b2f2affdf01/edit?invitationId=inv_a23e60a5-d82a-4e21-912f-7a22c78e2d35&page=0_0#
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://lucid.app/lucidchart/476ad372-6f2f-4ded-9ca2-784f99a3c70b/edit?page=0_0&invitationId=inv_8c7e6074-38a7-409e-98e8-4294864fd709#
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://www.figma.com/design/FSOW7IkzD2TxMomngv1Lo0/Untitled?node-id=0-1&p=f&t=NuML6o7oI1bbGuPS-0

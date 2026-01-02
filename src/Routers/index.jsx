@@ -7,6 +7,8 @@ import Vet from "../Pages/Vet.jsx"
 import Sitters from "../Pages/Sitters.jsx"
 import Addanimal from "../Pages/Addanimal.jsx";
 import Vetdetails from "../Pages/Vetdetails.jsx";
+import Sitterdetails from "../Pages/Sitterdetails.jsx";
+
 import Appointment from "../Pages/Appointment.jsx";
 // import CreateAppointmentPage from "../Pages/CreateAppointmentPage.jsx"
 
@@ -20,6 +22,10 @@ export const router = createBrowserRouter([
   {path:"/vet/:id",
    element:<Vetdetails />,
   },
+  {path:"/sitter/:id",
+   element:<Sitterdetails />,
+  },
+  
 //   {
 //     path: "/connexion",
 //     element:<Connexion />,
