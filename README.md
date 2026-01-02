@@ -8,3 +8,8 @@ https://lucid.app/lucidchart/bb5cfad1-3bcc-4baa-abbe-2b2f2affdf01/edit?invitatio
 https://lucid.app/lucidchart/476ad372-6f2f-4ded-9ca2-784f99a3c70b/edit?page=0_0&invitationId=inv_8c7e6074-38a7-409e-98e8-4294864fd709#
 
 https://www.figma.com/design/FSOW7IkzD2TxMomngv1Lo0/Untitled?node-id=0-1&p=f&t=NuML6o7oI1bbGuPS-0
+
+https://docs.google.com/document/d/18YwoO2pdScNPZwcZmcB6Vgiz9onle6Oqy98aDLyB0Ug/edit?tab=t.0#heading=h.ynzjj5e0cwit
+
+https://trello.com/b/M2mx79kH/projet-petcare
+
