@@ -8,9 +8,9 @@ import Sitters from "../Pages/Sitters.jsx"
 import Addanimal from "../Pages/Addanimal.jsx";
 import Vetdetails from "../Pages/Vetdetails.jsx";
 import Sitterdetails from "../Pages/Sitterdetails.jsx";
-
 import Appointment from "../Pages/Appointment.jsx";
-// import CreateAppointmentPage from "../Pages/CreateAppointmentPage.jsx"
+import Registre from "../Pages/Registre.jsx";
+// import Register from "../Pages/Register.jsx"
 
 export const router = createBrowserRouter([
     {
@@ -45,6 +45,10 @@ export const router = createBrowserRouter([
    {
     path: "/sitter",
     element:<Sitters />,
+  },
+  {
+    path: "/registre",
+    element:<Registre />,
   },
 ]
     }

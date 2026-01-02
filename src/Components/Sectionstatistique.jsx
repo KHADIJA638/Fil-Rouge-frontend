@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom"
 
 export default function Sectionstatistique() {
-    const navigate = useNavigate()
+    const navigate = useNavigate();
     const statistiques =[
         {
         number:"+120",
