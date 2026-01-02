@@ -2,7 +2,7 @@
 import { createBrowserRouter } from "react-router-dom";
 import Home from "../Pages/Home.jsx";
 import Layout from "../Layoutes/layout.jsx";
-// import Connexion from "../Pages/Connexion.jsx";
+import Reservation from "../Pages/Reservation.jsx";
 import Vet from "../Pages/Vet.jsx"
 import Sitters from "../Pages/Sitters.jsx"
 import Addanimal from "../Pages/Addanimal.jsx";
@@ -26,10 +26,10 @@ export const router = createBrowserRouter([
    element:<Sitterdetails />,
   },
   
-//   {
-//     path: "/connexion",
-//     element:<Connexion />,
-//   },
+  {
+    path: "/reservation",
+    element:<Reservation />,
+  },
   {
     path: "/vet",
     element:<Vet/>,
